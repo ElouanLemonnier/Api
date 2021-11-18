@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "mocha apiTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElouanLemonnier/Api.git"
+  },
+  "author": "Elouan Lemonnier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElouanLemonnier/Api/issues"
+  },
+  "homepage": "https://github.com/ElouanLemonnier/Api#readme"
+}
